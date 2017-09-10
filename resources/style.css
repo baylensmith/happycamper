@@ -1,0 +1,12 @@
+/*All Content*/
+* {
+  font-family: verdana;
+}
+/*Header*/
+/*Footer*/
+.footer {
+  background-color: dark-gray;
+  border-top: 1px solid light-gray;
+  text-align: center;
+  font-color: white;
+}
