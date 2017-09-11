@@ -29,6 +29,8 @@
   width: 100%;
   height: 50px;
   text-align: center;
+  border-top: 1px black;
+  border-bottom: 1px black;
 }
 
 .button {
@@ -36,6 +38,7 @@
   height: 50px;
   margin: 10px;
   padding: 5px;
+  text-align: center;
 }
 
 .button:link {
@@ -46,6 +49,33 @@
 .button:visited {
   text-decoration: none;
   color: #000000;
+}
+
+/*Body*/
+
+.call {
+  text-align: center;
+  font-weight: bold;
+}
+
+.gallery {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.amenities {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.rates {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.contact {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 /*Footer*/
